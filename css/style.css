@@ -65,7 +65,7 @@ header{}
 }
 .banner{}
 .body-banner{
-	background: url('../images/banner.jpg');
+	background: #797C71 url('../images/banner.jpg');
 	background-size: cover;
 	min-height: 82vh;
 }
